@@ -1,4 +1,4 @@
-## Adjudex
+### Adjudex
 
 ## Economic Truth Engine Subnet
 
