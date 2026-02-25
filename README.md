@@ -6,13 +6,11 @@
 
 ## Submitted by: Decentralize Dzone Dev-ID
 
-#25 February 2026
+25 February 2026
 
-#“Transforming claim verification into an incentive-aligned
+“Transforming claim verification into an incentive-aligned intelligence market”
 
-#intelligence market”
-
-
+Subnet Design Proposal for the <a>Bittensor Subnet Ideathon 2026</a>
 
 
 **1. Executive Summary**
