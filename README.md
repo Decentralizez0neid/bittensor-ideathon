@@ -1,6 +1,4 @@
-## Adjudex
-
-## Economic Truth Engine Subnet
+# Adjudex - Economic Truth Engine Subnet
 
 ## Bittensor Subnet Ideathon – Round I Submission
 
