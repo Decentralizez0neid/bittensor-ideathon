@@ -10,7 +10,7 @@
 
 “Transforming claim verification into an incentive-aligned intelligence market”
 
-Subnet Design Proposal for the <a>Bittensor Subnet Ideathon 2026</a>
+Subnet Design Proposal for the <a link="https://www.hackquest.io/hackathons/Bittensor-Subnet-Ideathon">Bittensor Subnet Ideathon 2026</a>
 
 
 **1. Executive Summary**
